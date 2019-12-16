@@ -5,8 +5,9 @@
   <vendor email="xndlnk@gmail.com" url="http://www.yourcompany.com">xndlnk</vendor>
 
   <description><![CDATA[
-      Adds Monocai, inspired by Monokai and Monokai Pro, as an editor colorscheme. This color theme uses modern colors
-      that will enhance readability whilst keeping eyestrain to a minimum.
+This is a dark high-contrast Monocai theme for IntelliJ.
+It is inspired by bmikaili (https://github.com/bmikaili/intellij-monocai-theme)
+with some modifications and color fixes. This theme only works in IntelliJ 2019.1+.
     ]]></description>
 
   <change-notes><![CDATA[
