@@ -1,8 +1,8 @@
 {
-  "name": "xndlnk-monocai",
+  "name": "xndlnk-monokai",
   "dark": true,
   "author": "xndlnk",
-  "editorScheme": "/META-INF/xndlnk_monocai.xml",
+  "editorScheme": "/META-INF/xndlnk_monokai.xml",
   "ui": {
 
     "*": {
