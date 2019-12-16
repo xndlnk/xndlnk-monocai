@@ -1,0 +1,35 @@
+<idea-plugin>
+  <id>xndlnk.monocai</id>
+  <name>xndlnk-monocai</name>
+  <version>1.0</version>
+  <vendor email="xndlnk@gmail.com" url="http://www.yourcompany.com">xndlnk</vendor>
+
+  <description><![CDATA[
+      Adds Monocai, inspired by Monokai and Monokai Pro, as an editor colorscheme. This color theme uses modern colors
+      that will enhance readability whilst keeping eyestrain to a minimum.
+    ]]></description>
+
+  <change-notes><![CDATA[
+    <ul>
+    <li>this is the initial release. it really is.</li>
+    <ul>
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="a094cff0-8439-434c-8b8b-84a181dc3070" path="/META-INF/xndlnk_monocai.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
