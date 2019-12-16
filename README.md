@@ -14,6 +14,10 @@ Some colors are defined in [xndlnk_monocai.theme.json](resources/META-INF/xndlnk
 
 Reference: [Customizing UI Theme](http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_customize.html).
 
+### How to install
+
+Goto `Preferences / Plugins / Install plugin from disk` and select `xndlnk-monocai.jar` file
+
 ### How to change colors
 
 1. Modify the json or xml file.
@@ -24,6 +28,6 @@ Reference: [Customizing UI Theme](http://www.jetbrains.org/intellij/sdk/docs/ref
 ### How to deploy your changes
 
 1. From the main menu invoke `Build / Prepare Plugin Module ... For Deployment`
-2. Goto `Preferences / Plugins / Uninstall` and restart IntelliJ
+2. Goto `Preferences / Plugins / xndlnk-monocai / Uninstall` and restart IntelliJ
 3. Goto `Preferences / Plugins / Install plugin from disk` and select `xndlnk-monocai.jar` file
 4. Apply changes
