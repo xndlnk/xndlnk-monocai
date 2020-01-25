@@ -12,7 +12,7 @@
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="808080" />
         <option name="FILESTATUS_RENAMED" value="a7700" />
-        <option name="GUTTER_BACKGROUND" value="2d2a2e" />
+        <option name="GUTTER_BACKGROUND" value="121718" />
         <option name="METHOD_SEPARATORS_COLOR" value="5b5a4e" />
         <option name="MODIFIED_LINES_COLOR" value="415f69" />
         <option name="NOTIFICATION_BACKGROUND" value="5f5026" />
@@ -313,7 +313,7 @@
         <option name="DEFAULT_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="ff6188" />
-                <option name="BACKGROUND" value="181619" />
+                <option name="BACKGROUND" value="0D1011" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -24891,7 +24891,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="f6f6f6" />
-                <option name="BACKGROUND" value="181619" />
+                <option name="BACKGROUND" value="0D1011" />
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

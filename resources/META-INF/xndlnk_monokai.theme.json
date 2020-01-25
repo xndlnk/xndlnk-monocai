@@ -6,7 +6,7 @@
   "ui": {
 
     "*": {
-      "background": "#181619",
+      "background": "#252526",
       "foreground": "#fcfcfb",
 
       "infoForeground": "#727072",
