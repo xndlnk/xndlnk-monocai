@@ -11,10 +11,10 @@
 
       "infoForeground": "#727072",
 
-      "selectionBackground": "#403e42",
+      "selectionBackground": "#3f3f46",
       "selectionForeground": "#fcfcfb",
-      "selectionInactiveBackground": "#2d2a2f",
-      "selectionBackgroundInactive": "#2d2a2f",
+      "selectionInactiveBackground": "#1c1c1d",
+      "selectionBackgroundInactive": "#1c1c1d",
 
       "lightSelectionBackground": "#7f7e7f",
       "lightSelectionForeground": "#fcfcfb",
@@ -132,10 +132,10 @@
       "selectedForeground": "#fcfcfb",
       "inactiveMaskColor": "#403e42",
       "borderColor": "#727072",
-      "underlinedTabBackground": "#2d2a2f",
+      "underlinedTabBackground": "#0a0e0f",
       "underlinedTabForeground": "#fcfcfb",
-      "underlineColor": "#7094ff",
-      "hoverBackground": "#727072",
+      "underlineColor": "#727072",
+      "hoverBackground": "#403e42",
       "inactiveColoredFileBackground": "#2d2a2f"
     },
 
@@ -361,7 +361,7 @@
       "Actions.Yellow": "#ffd866",
       "Actions.Green": "#a9dc76",
       "Actions.Blue": "#78dce8",
-      "Actions.GreyInline.Dark": "#ab9df3",
+      "Actions.GreyInline.Dark": "#fcfcfb8b",
 
       "Objects.Grey": "#727072",
       "Objects.RedStatus": "#F92672",

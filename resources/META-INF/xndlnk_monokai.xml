@@ -10,8 +10,21 @@
         <option name="ANNOTATIONS_COLOR" value="b2c0c6" />
         <option name="CARET_ROW_COLOR" value="2d2d2d" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
+        <option name="FILESTATUS_ADDED" value="a9dc76" />
+        <option name="FILESTATUS_COPIED" value="a9dc76" />
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="808080" />
-        <option name="FILESTATUS_RENAMED" value="a7700" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6188" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6188" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6188" />
+        <option name="FILESTATUS_MERGED" value="ab9df3" />
+        <option name="FILESTATUS_MODIFIED" value="78dce8" />
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
+        <option name="FILESTATUS_RENAMED" value="ffd866" />
+        <option name="FILESTATUS_UNKNOWN" value="f3889a" />
+        <option name="FILESTATUS_addedOutside" value="a9dc76" />
+        <option name="FILESTATUS_changelistConflict" value="ff6188" />
+        <option name="FILESTATUS_modifiedOutside" value="78dce8" />
         <option name="GUTTER_BACKGROUND" value="121718" />
         <option name="METHOD_SEPARATORS_COLOR" value="5b5a4e" />
         <option name="MODIFIED_LINES_COLOR" value="415f69" />
