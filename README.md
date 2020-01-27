@@ -27,6 +27,10 @@ Goto `Preferences / Plugins / Install plugin from disk` and select `xndlnk-monok
 3. Export your color scheme via `Editor / Color Scheme` to an `.icls` file
 4. Open that `.icls` file and copy XML entries to `xndlnk_monokai.xml`
 
+### Some Color Hints
+
+- the red/pink editor text selection color: `SELECTION_BACKGROUND` in xml file
+
 ### How to deploy your changes
 
 1. From the main menu invoke `Build / Prepare Plugin Module ... For Deployment`
