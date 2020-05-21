@@ -1,14 +1,11 @@
-# Xndlnks Version of a Monokai Theme for IntelliJ
+# XndLnks Version of a Monokai Theme for IntelliJ
 
-This is a dark high-contrast Monokai theme for IntelliJ 2019.1+.
-
-Inspirations:
-- [Monokai](https://www.monokai.nl/)
-- [bmikaili](https://github.com/bmikaili/intellij-monocai-theme)
+This is a dark high-contrast Monokai theme for IntelliJ 2019.1+. The theme is inspired by [Monokai](https://www.monokai.nl/)
+and by [bmikailis IntelliJ Theme](https://github.com/bmikaili/intellij-monocai-theme).
 
 ## Preview
 
-![](preview.png)
+![](preview.jpg)
 
 ## Adjusting this theme to your needs
 
