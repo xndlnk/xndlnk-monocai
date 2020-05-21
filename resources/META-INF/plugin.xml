@@ -1,18 +1,16 @@
 <idea-plugin>
   <id>xndlnk.monokai</id>
   <name>xndlnk-monokai</name>
-  <version>1.3</version>
-  <vendor email="xndlnk@gmail.com" url="http://www.yourcompany.com">xndlnk</vendor>
+  <version>1.3.1</version>
+  <vendor email="xndlnk@gmail.com" url="https://github.com/xndlnk">xndlnk</vendor>
 
   <description><![CDATA[
 This is a dark high-contrast Monokai theme for IntelliJ.
-It is inspired by bmikaili (https://github.com/bmikaili/intellij-monocai-theme)
-with some modifications and color fixes. This theme only works in IntelliJ 2019.1+.
     ]]></description>
 
   <change-notes><![CDATA[
     <ul>
-    <li>this is the initial release. it really is.</li>
+    <li>1.3.1 minor adjustments to publish to JetBrains repository</li>
     <ul>
     ]]>
   </change-notes>
