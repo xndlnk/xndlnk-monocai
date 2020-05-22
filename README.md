@@ -5,7 +5,7 @@ and by [bmikailis Monocai Theme](https://github.com/bmikaili/intellij-monocai-th
 
 ## Preview
 
-![](preview.jpg)
+![](preview.png)
 
 ## Adjusting this theme to your needs
 
