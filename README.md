@@ -7,11 +7,16 @@ and by [bmikailis Monocai Theme](https://github.com/bmikaili/intellij-monocai-th
 
 ![](preview.png)
 
-## Adjusting this theme to your needs
+## How to adjust this theme to your needs
 
-Some colors are defined in [xndlnk_monokai.theme.json](resources/META-INF/xndlnk_monokai.theme.json) and some other colors are defined in [xndlnk_monokai.xml](resources/META-INF/xndlnk_monokai.xml). IntelliJ is missing a clear documentation about the UI elements and their colors.
+Look into [xndlnk_monokai.theme.json](resources/META-INF/xndlnk_monokai.theme.json)
+and [xndlnk_monokai.xml](resources/META-INF/xndlnk_monokai.xml) to change the colors.
 
-Reference: [Customizing UI Theme](http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_customize.html).
+Regarding the possible color keys for UI elements, IntelliJ is missing a clear documentation.
+
+Some color references I found:
+- [Customizing UI Theme](http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_customize.html)
+- [All keys from IntelliJ Platform and custom UI components](https://upsource.jetbrains.com/idea-ce/file/idea-ce-40e5005d02df57f58ac2d498867446c43d61101f/platform/platform-resources/src/themes/metadata/IntelliJPlatform.themeMetadata.json)
 
 ### How to install
 
