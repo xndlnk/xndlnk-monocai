@@ -132,10 +132,10 @@
       "selectedForeground": "#fcfcfb",
       "inactiveMaskColor": "#403e42",
       "borderColor": "#727072",
-      "underlinedTabBackground": "#0a0e0f",
+      "underlinedTabBackground": "#403e42",
       "underlinedTabForeground": "#fcfcfb",
       "underlineColor": "#727072",
-      "hoverBackground": "#403e42",
+      "hoverBackground": "#727072",
       "inactiveColoredFileBackground": "#2d2a2f"
     },
 
@@ -196,8 +196,8 @@
     "Plugins": {
       "Tab": {
         "selectedForeground": "#fcfcfb",
-        "selectedBackground": "#1b1d1e",
-        "hoverBackground": "#7f7e7f"
+        "selectedBackground": "#7f7e7f",
+        "hoverBackground": "#50a3ed"
       },
       "lightSelectionBackground": "#1b1d1e",
 
